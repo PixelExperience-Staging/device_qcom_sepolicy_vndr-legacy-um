@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bd84b4b6_09a86e90",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000014
+      },
+      "writtenOn": "2023-10-24T16:18:04Z",
+      "side": 1,
+      "message": "device/qcom/sepolicy_vndr-legacy-um/legacy/vendor/common/device.te:167:ERROR \u0027Duplicate declaration of type\u0027 at token \u0027;\u0027 on line 100988:\ntype bt_device, dev_type;\n#define Bluetooth device\ncheckpolicy:  error(s) encountered while parsing configuration",
+      "revId": "d520dd0ffb95e091c74b423856ad087c63221671",
+      "serverId": "4889e122-48d1-4608-950d-fd61a2d2ee50"
+    }
+  ]
+}
